@@ -2,9 +2,9 @@
 <h3 align="right">A passionate frontend developer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishna0206&label=Profile%20views&color=0e75b6&style=flat" alt="kavishna0206" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavishna0206&label=Profile%20views&color=0e75b6&style=flat" alt="kavishna0206" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishna0206" alt="kavishna0206" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavishna0206" alt="kavishna0206" /></a> </p>
 
 - 🔭 I’m currently working on [Frontend projects](kavi.42.webio)
 
