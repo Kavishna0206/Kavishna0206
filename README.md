@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kavishna Ramdoss</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h1 align="right">Hi 👋, I'm Kavishna Ramdoss</h1>
+<h3 align="right">A passionate frontend developer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishna0206&label=Profile%20views&color=0e75b6&style=flat" alt="kavishna0206" /> </p>
