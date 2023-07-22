@@ -10,10 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kavishnaramdoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavishnaramdoss" height="30" width="40" /></a>
-<a href="https://instagram.com/fradu0206@instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fradu0206@instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kavishna0206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kavishna0206" height="30" width="40" /></a>
-</p>
+<a href="Kavi.42webio"></a></p>
   </div>
     <div>
 
