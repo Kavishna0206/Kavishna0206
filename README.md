@@ -8,7 +8,7 @@
 <img align="center" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 <div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Visit it:</h3>
 <p align="left">
 <a href="Kavi.42webio"></a></p>
   </div>
