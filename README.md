@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Kavishna Ramdoss</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Frontend Developer.</h3>
 
 <img align="center" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 <div>
@@ -15,7 +15,7 @@
     <div>
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects and Web scraping on Python.<br>👯 I’m looking to collaborate on inten based company for pojects.<br>🌱 I’m currently learning Backend languages .<br>💬 Ask me about PowerBi and Frontend Projects.<br>⚡ Fun fact: Slow and steady.
+🔭 I’m currently working on Vuejs and React and Machine Learning.<br>👯 I'm looking for help with Data Analysis.<br>🌱 I’m currently learning Full Stack Development .<br>💬 Ask me about Python and Frontend .<br>⚡ Fun fact: Slow and steady.
 
 
 ## 🌐 Socials:
